@@ -1,0 +1,58 @@
+Grupo:
+Ingrid Cavalli
+Gabriel Pinheiro 
+Adryelly Oliveira
+Gabriel Rodrigues
+
+Ideia: 
+
+Um portal de notícias sobre games
+
+Glossário:
+
+CSS: CSS é chamado de linguagem Cascading Style Sheet e é usado para estilizar elementos escritos em uma linguagem de marcação como HTML. O CSS separa o conteúdo da representação visual do site. Pense  na decoração da sua página. Utilizando o CSS é possível alterar a cor do texto e do fundo, fonte e espaçamento entre parágrafos. Também pode criar tabelas, usar variações de layouts, ajustar imagens para suas respectivas telas e assim por diante.
+
+
+Flexible Box: Conhecido como Flexbox, é um modelo de layout da Web CSS3. Está no estágio de recomendação de candidatos do W3C. O layout flexível permite que os elementos responsivos dentro de um contêiner sejam organizados automaticamente, dependendo do tamanho da tela. Provê ferramentas para criação rápida de layouts complexos e flexíveis, e características que se mostraram historicamente difíceis com CSS. 
+
+Gallery: O Gallery CSS é uma solução simples e de código aberto para criação de galeria de imagens, com controle de visualização e autoplay.
+
+Article: O Elemento HTML Article (<article>) representa uma composição independente em um documento, página, aplicação, ou site, ou que é destinado a ser distribuido de forma independente ou reutilizável, por exemplo, em sindicação. Este poderia ser o post de um fórum, um artigo de revista ou jornal, um post de um blog, um comentário enviado por um usuário, um gadget ou widget interativos, ou qualquer outra forma de conteúdo independente.
+
+-Quando um elemento <article> está aninhado, o elemento interior representa um artigo relacionado com o elemento exterior. Por exemplo, os comentários do post de um blog podem ser elementos <article> aninhados em <article> representando o post do blog.
+
+-Informações sobre o autor de um elemento <article> podem ser fornecidas através do elemento <address> ,mas ele não se aplica aos elementos <article> aninhados.
+
+-A data e hora de publicação de um elemento <article> pode ser descrita usando o atributo pubdate de um elemento <time>.
+
+Grid: CSS Grid layout é uma especificação do W3C projetada para proporcionar um método bi-dimensional para criação de layout CSS que oferece a possibilidade de "layoutar" itens da página com uso de linhas e colunas. CSS grid poderá ser usado para obter uma infinidade de diferentes layouts. O diferencial desse método de criação de layouts reside na possibilidade de se dividir uma página em grandes regiões e de se definir o relacionamento em termos de medidas, posicionamento e camadas entre os diferentes componentes da marcação HTML.
+
+Tal como as tabelas, grid layout permite ao autor alinhar os componentes da página fazendo uso de linhas e colunas. Contudo ao contrário das tabelas, grid layout não se baseia em estruturação de conteúdos, possibilitando uma enorme variedade de layouts, o que não é possível de se obter com uso de tabelas. Por exemplo: elementos filhos de um grid container podem ser posicionados à vontade se sobrepondo ou mudando de layer, de modo idêntico como se faz com uso das funcionalidades do nosso já conhecido posicionamento CSS.
+
+Wireframe: é base ou o esqueleto da parte visual de um projeto. São formas geométricas utilizadas para representar a estrutura do site e formar seções. Não há cores nem conteúdo e pode ser feito digitalmente ou simplesmente em uma folha de papel.
+
+Mockup: é representação de produto ou projeto em escala ou tamanho real. Possui um designe próximo do final simulando o tamanho, cor e textura para ter uma visualização e saber o que deve ser mudado ou não
+
+HTML:O HTML ou Hyper Text Markup Language é uma linguagem de marcação utilizada para estruturar informações em um documento ou páginas web. Consiste em diversos elementos usados para agrupar diferentes seções de conteúdo para que o navegador possa interpretar.
+
+News: Notícias 
+
+Footer: Em tipografia e processamento de texto, o rodapé de uma página impressa é uma seção localizada abaixo do texto principal, ou corpo. Normalmente é usado como o espaço para o número da página.
+
+Aside:A tag <aside> do HTML deve ser usada para criar uma seção em uma página web com conteúdo não necessariamente relacionado com o principal, algo totalmente separado do contexto.
+
+Um ótimo exemplo da utilização de <aside> é para criar uma barra lateral com propagandas, conhecida como sidebar. Além disso, pode ser usada para biografia do autor, grupos de elementos de navegação externa, pull quotes e outros conteúdos considerados separados do principal da página.
+
+
+Header: Este nome é mais conhecido como “cabeçalho” no Brasil, tratando-se da parte superior do site, a qual fica destacada do resto do conteúdo. Pode ser difícil descrever dessa forma, mas você certamente reconhece o cabeçalho de um site quando o vê.
+
+Section:  O elemento HTML <section> representa uma seção genérica contida em um documento HTML, geralmente com um título, quando não existir um elemento semântico mais específico para representá-lo.
+
+Por exemplo, um menu de navegação deve estar dentro um elemento <nav>, mas uma lista de resultados de pesquisa ou a exibição de um mapa e seus controles não possuem elementos específicos, e podem ser colocados dentro de uma <section>.
+
+-Cada <section> deve ser identificado, geralmente incluindo um cabeçalho (elemento <h1> (en-US)-<h6> (en-US)) como um filho do elemento <section>.
+
+-Se faz sentido distribuir separadamente o conteúdo de um elemento <section>, use um elemento <article> em seu lugar.
+
+-Não use o elemento <section> como um container genérico; para isso que a <div> serve, especialmente quando a seção é apenas com propósito de estilização. Uma regra de ouro é ,"usar quando uma seção deve aparecer logicamente na estrutura de um documento".
+
