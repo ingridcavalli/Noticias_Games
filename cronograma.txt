@@ -1,0 +1,11 @@
+Cronograma de Atividades:
+
+S01: 01/09 a 15/09 = Criação do Wireframe, pesquisa do conteúdo do projeto, montar cronograma e esboço do HTML  e ter a confirmação do pré-projeto
+
+S02: 16/09 a 30/09 =  Aprimorar o HTML, começar o CSS e ter a confirmação do projeto
+
+S03: 01/10 a 15/10 = Finalização do HTML, melhora do CSS e aprimoração dos pedidos
+
+S04: 15/10 a 31/10 = Finalização do CSS e revisão do codigos e informações
+
+31/10/2022 = Entrega do projeto 
